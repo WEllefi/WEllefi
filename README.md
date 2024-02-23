@@ -9,6 +9,18 @@ During his tenure at Talan in 2023, Wissem led a data-driven project aimed at en
 
 At Amen Bank in 2022, Wissem designed a time-saving software solution to automatically extract and inject information from balance sheets into the database. This innovation significantly improved agent efficiency through the application of computer vision and OCR technologies.
 
+##  Technologies and Tools 🧰
+
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pycharm/pycharm-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/hadoop/hadoop-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> </br>
+</br>
+
+
 ## Experience :office:
 
 **Data Scientist**  
